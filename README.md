@@ -25,7 +25,7 @@ Alphabet Soup, a nonprofit foundation, is looking to improve its funding selecti
 - IS_SUCCESSFUL is the target variable in the model.
 - EIN and NAME were removed from the data because they are neither targets nor features.
 - The following are the features of the model:
-    APPLICATION_TYPE
+    - APPLICATION_TYPE
     AFFILIATION
     CLASSIFICATION
     USE_CASE
