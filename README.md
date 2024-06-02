@@ -75,7 +75,6 @@ Alphabet Soup, a nonprofit foundation, is looking to improve its funding selecti
   ![Screenshot 2024-06-01 195716](https://github.com/carojasp12/Deep-Learning-Challenge/assets/152667250/f446ef4b-d420-404d-909b-31382c2c9838)
   ![Screenshot 2024-06-01 195727](https://github.com/carojasp12/Deep-Learning-Challenge/assets/152667250/f46997ac-04ea-488b-90be-933697ce3fee)
 
+## Summary
 
-  
-
-
+Our first attempt to optimize the model gave us the highest accuracy of 73.07%, so we could not reach the 75% accuracy that was our initial target. We can use the Random Forest model as an alternative because it has a lower tendency to overfit and is easier to interpret. Additionally, Random Forests can effectively provide reliable predictions for the success of funding applicants.
